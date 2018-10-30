@@ -1,13 +1,18 @@
 {
   "name": "gatsby-source-gathercontent",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A Gatsby source plugin to load projects and templates from GatherContent",
+  "repository": "https://github.com/dajocarter/gatsby-source-gathercontent.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "gathercontent"
+  ],
+  "author": "David Carter <dajocarter@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
